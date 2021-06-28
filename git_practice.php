@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>メモ帳でHTML</title>
+</head>
+<body>
+メモ帳で１からつくったHTML文書です。
+</body>
+</html>
